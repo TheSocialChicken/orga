@@ -20,3 +20,18 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula 
 - Name of third person who has signed. Please keep in mind that you can check the git logs to verivy if this person is actually the person who has signed. 
 
 -----
+## This is a decision Title
+Date: 18-02-2017
+
+_Description_
+
+Dit is een besluit voor afspraken en protocollen binnen the social chicken. 
+
+Kort en bondig: Wekelijkse informatiedelingen en het vastleggen en instemmen van afspraken. 
+Voor meer informatie zie [het orginele document](https://github.com/TheSocialChicken/orga/blob/master/CommunicatieProtocol.pdf)
+
+## Signatures
+
+- Koen Schoute
+
+-----
