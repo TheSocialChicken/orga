@@ -13,5 +13,6 @@ Voor meer informatie zie [het originele document](https://github.com/TheSocialCh
 ## Signatures
 
 - Koen Schoute
+- Stephan Hoogeveen
 
 -----
